@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "ironhelmet": "git+https://github.com/MikeRohsoft/ironforge-node-adapter.git"
+    "ironhelmet": "git+https://github.com/MikeRohsoft/ironhelmet-node-adapter.git"
   },
   "author": "",
   "license": "ISC"
